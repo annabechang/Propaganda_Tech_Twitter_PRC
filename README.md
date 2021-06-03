@@ -1,9 +1,19 @@
 # Propaganda Tech Twitter PRC
 This repo is for the Mis2-KDD 2021 under review paper: Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People’s Republic of China
 
+
 We present our dataset that focuses on propaganda techniques in Mandarin based on a state-linked information operations dataset from the PRC released by Twitter in July 2019. The dataset consists of multi-label propaganda techniques of the sampled tweets. 
 
 In total, we have 9,950 labeled tweets with 21 different propaganda techniques. The tweets are the state-linked information operations dataset from the PRC released by Twitter.
+
+# Please cite
+```
+ @inproceedings{TwitterPRC,
+      author    = "Rong-Ching Chang, Chun-Ming Lai, Kai-Lai Chang, Chu-Hsing Lin",
+      title     = "Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People’s Republic of China",
+      year      = "forthcoming",
+    }
+```
 
 # Table of Content
 - [The list of propaganda techniques and their labels](#the-list-of-propaganda-techniques-and-their-labels)
