@@ -57,6 +57,9 @@ In total, we have 9,950 labeled tweets with 21 different propaganda techniques. 
 We do not provide the tweet content. To fully utilize the dataset, follow the below steps.
 
 # Downloading the dataset from Twitter 
+To comply with Twitter's developer policy, we do not share the content of the tweet directly but the tweetid and labels. 
+As the data was released, you can download it on twitter directly.
+
 1. Go to > [Twitter Information Operation website](https://transparency.twitter.com/en/reports/information-operations.html)  
 https://transparency.twitter.com/en/reports/information-operations.html
 
