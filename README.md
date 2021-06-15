@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dataset-of-propaganda-techniques-of-the-state/multi-label-text-classification-on-dataset-of)](https://paperswithcode.com/sota/multi-label-text-classification-on-dataset-of?p=dataset-of-propaganda-techniques-of-the-state)
+
 # Propaganda Tech Twitter PRC
 This repo is for the Mis2-KDD 2021 under review paper: Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People’s Republic of China
 
