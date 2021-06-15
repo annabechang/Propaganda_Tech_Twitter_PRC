@@ -8,11 +8,13 @@ In total, we have 9,950 labeled tweets with 21 different propaganda techniques. 
 
 # Please cite
 ```
- @inproceedings{TwitterPRC,
-      author    = "Rong-Ching Chang, Chun-Ming Lai, Kai-Lai Chang, Chu-Hsing Lin",
-      title     = "Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People’s Republic of China",
-      year      = "forthcoming",
-    }
+@online{2106.07544,
+Author = {Rong-Ching Chang and Chun-Ming Lai and Kai-Lai Chang and Chu-Hsing Lin},
+Title = {Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People's Republic of China},
+Year = {2021},
+Eprint = {arXiv:2106.07544},
+Organization = {Tunghai University}
+}
 ```
 
 # Table of Content
