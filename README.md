@@ -1,7 +1,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dataset-of-propaganda-techniques-of-the-state/multi-label-text-classification-on-dataset-of)](https://paperswithcode.com/sota/multi-label-text-classification-on-dataset-of?p=dataset-of-propaganda-techniques-of-the-state)
 
 # Propaganda Tech Twitter PRC
-This repo is for the Mis2-KDD 2021 paper: Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People’s Republic of China
+This repo is for the Mis2-KDD 2021 paper: [Dataset of Propaganda Techniques of the State-Sponsored Information Operation of the People’s Republic of China](https://arxiv.org/abs/2106.07544) 
 
 
 We present our dataset that focuses on propaganda techniques in Mandarin based on a state-linked information operations dataset from the PRC released by Twitter in July 2019. The dataset consists of multi-label propaganda techniques of the sampled tweets. 
